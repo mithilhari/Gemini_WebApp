@@ -1,0 +1,8 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+.streamlit/
+venv/
+.ipynb_checkpoints/
+.DS_Store

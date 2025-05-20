@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+google-generativeai
+python-dotenv
+PyMuPDF==1.23.25 # Pinning a version for consistency, feel free to use latest
+python-docx==1.1.0 # Pinning a version for consistency, feel free to use latest
